@@ -39,7 +39,8 @@ This function `DMD_ConstrainedDMD` implements the method **Constrained Dynamic M
 A demo of Constrained DMD applied to the lynx dataset [[2]](#2) (see Figure 7, 8, and 9 in the related publication) is described in `main_demo_lynx.m`. The lynx dataset is an univariate time series that consists of seasonal and cyclic patterns. These patterns are characterized by a non-integer period given by 9.63. In this demo, the core method, the visualization techniques, and the human-in-the-loop procedure is illustrated.
 
 
-## 📝 Replication of Results
+<h2 align="left"><img src="figures/representative_small_icon.png" width="28"> Replication of Results</h2>
+
 The replication folder consists of files that aim to reproduce visualizations from the related publication [[1]](#1). The replication of the teaser (Fig. 1), which is based on the dataset `artificial.mat`, can be done with the file `replication_fig_1.m`:
 
 ![alt text](figures/Fig01.jpg)
